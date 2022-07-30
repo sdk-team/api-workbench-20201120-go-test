@@ -1,6 +1,9 @@
 2022-07-30 Version: v1.0.7
 - Generated golang 2020-11-20 for api-workbench.
 
+2022-07-30 Version: v1.0.7
+- Generated golang 2020-11-20 for api-workbench.
+
 2022-07-30 Version: v1.0.6
 - Generated golang 2020-11-20 for api-workbench.
 
